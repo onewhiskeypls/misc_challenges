@@ -1,0 +1,29 @@
+mkdir   sub3
+mkdir   sub4
+tree
+mv      sub3    sub6
+cd      sub3
+cd      sub6
+mkdir   sub601
+mv      sub601  ..\sub4
+up
+tree
+cd      sub4
+cd      sub601
+mkdir   sub666
+up
+mv      sub601  sub602
+cd      sub602
+cd      sub666
+tree
+up
+up
+mkdir   sub6
+up
+tree
+mv      sub6    sub4
+up
+up
+up
+up
+tree

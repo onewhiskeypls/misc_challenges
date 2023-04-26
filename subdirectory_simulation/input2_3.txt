@@ -1,0 +1,286 @@
+mkdir   sub3
+mkdir   sub4
+tree
+mv      sub3    sub6
+cd      sub3
+cd      sub6
+mkdir   sub601
+mv      sub601  ..\sub4
+up
+tree
+cd      sub4
+cd      sub601
+mkdir   sub666
+up
+mv      sub601  sub602
+cd      sub602
+cd      sub666
+tree
+up
+up
+mkdir   sub6
+up
+tree
+mv      sub6    sub4
+mkdir   sub3
+mkdir   sub4
+tree
+mv      sub3    sub6
+cd      sub3
+cd      sub6
+mkdir   sub601
+mv      sub601  ..\sub4
+up
+tree
+cd      sub4
+cd      sub601
+mkdir   sub666
+up
+mv      sub601  sub602
+cd      sub602
+cd      sub666
+tree
+up
+up
+mkdir   sub6
+up
+tree
+mv      sub6    sub4
+mkdir   sub3
+mkdir   sub4
+tree
+mv      sub3    sub6
+cd      sub3
+cd      sub6
+mkdir   sub601
+mv      sub601  ..\sub4
+up
+tree
+cd      sub4
+cd      sub601
+mkdir   sub666
+up
+mv      sub601  sub602
+cd      sub602
+cd      sub666
+tree
+up
+up
+mkdir   sub6
+up
+tree
+mv      sub6    sub4
+mkdir   sub3
+mkdir   sub4
+tree
+mv      sub3    sub6
+cd      sub3
+cd      sub6
+mkdir   sub601
+mv      sub601  ..\sub4
+up
+tree
+cd      sub4
+cd      sub601
+mkdir   sub666
+up
+mv      sub601  sub602
+cd      sub602
+cd      sub666
+tree
+up
+up
+mkdir   sub6
+up
+tree
+mv      sub6    sub4
+mkdir   sub3
+mkdir   sub4
+tree
+mv      sub3    sub6
+cd      sub3
+cd      sub6
+mkdir   sub601
+mv      sub601  ..\sub4
+up
+tree
+cd      sub4
+cd      sub601
+mkdir   sub666
+up
+mv      sub601  sub602
+cd      sub602
+cd      sub666
+tree
+up
+up
+mkdir   sub6
+up
+tree
+mv      sub6    sub4
+mkdir   sub3
+mkdir   sub4
+tree
+mv      sub3    sub6
+cd      sub3
+cd      sub6
+mkdir   sub601
+mv      sub601  ..\sub4
+up
+tree
+cd      sub4
+cd      sub601
+mkdir   sub666
+up
+mv      sub601  sub602
+cd      sub602
+cd      sub666
+tree
+up
+up
+mkdir   sub6
+up
+tree
+mv      sub6    sub4
+mkdir   sub3
+mkdir   sub4
+tree
+mv      sub3    sub6
+cd      sub3
+cd      sub6
+mkdir   sub601
+mv      sub601  ..\sub4
+up
+tree
+cd      sub4
+cd      sub601
+mkdir   sub666
+up
+mv      sub601  sub602
+cd      sub602
+cd      sub666
+tree
+up
+up
+mkdir   sub6
+up
+tree
+mv      sub6    sub4
+mkdir   sub3
+mkdir   sub4
+tree
+mv      sub3    sub6
+cd      sub3
+cd      sub6
+mkdir   sub601
+mv      sub601  ..\sub4
+up
+tree
+cd      sub4
+cd      sub601
+mkdir   sub666
+up
+mv      sub601  sub602
+cd      sub602
+cd      sub666
+tree
+up
+up
+mkdir   sub6
+up
+tree
+mv      sub6    sub4
+cd      sub4
+cd      sub602
+cd      sub601
+tree
+cd      sub666
+mkdir   sub123
+cd      sub123
+mkdir   sub124
+cd      sub124
+mkdir   sub125
+cd      sub125
+mkdir   sub126
+cd      sub126
+mkdir   sub127
+cd      sub127
+up
+up
+up
+mkdir   sub666
+cd      sub666
+mkdir   sub123
+cd      sub123
+mkdir   sub124
+cd      sub124
+mkdir   sub125
+cd      sub125
+mkdir   sub126
+cd      sub126
+mkdir   sub127
+cd      sub127
+up
+up
+up
+up
+up
+up
+up
+up
+up
+up
+up
+cd      sub6
+mkdir   sub666
+cd      sub666
+mkdir   sub123
+cd      sub123
+mkdir   sub124
+cd      sub124
+mkdir   sub125
+cd      sub125
+mkdir   sub126
+cd      sub126
+mkdir   sub127
+cd      sub127
+up
+up
+up
+up
+up
+up
+up
+up
+up
+tree
+cd      sub6
+mkdir   sub100
+mkdir   sub101
+mkdir   sub102
+mkdir   sub103
+mkdir   sub104
+mkdir   sub105
+mkdir   sub106
+mkdir   sub107
+mkdir   sub108
+mkdir   sub109
+mkdir   sub110
+mkdir   sub200
+mkdir   sub201
+mkdir   sub202
+mkdir   sub203
+mkdir   sub204
+mkdir   sub205
+mkdir   sub206
+mkdir   sub207
+mkdir   sub208
+mkdir   sub209
+mkdir   sub210
+mkdir   sub211
+mkdir   sub212
+mkdir   sub213
+mkdir   sub212
+up
+dir
+tree
